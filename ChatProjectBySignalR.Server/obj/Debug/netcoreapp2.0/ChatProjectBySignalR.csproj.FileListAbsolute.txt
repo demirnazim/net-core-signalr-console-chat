@@ -1,0 +1,11 @@
+c:\users\demir\source\repos\ChatProjectBySignalR\ChatProjectBySignalR\bin\Debug\netcoreapp2.0\ChatProjectBySignalR.deps.json
+c:\users\demir\source\repos\ChatProjectBySignalR\ChatProjectBySignalR\bin\Debug\netcoreapp2.0\ChatProjectBySignalR.runtimeconfig.json
+c:\users\demir\source\repos\ChatProjectBySignalR\ChatProjectBySignalR\bin\Debug\netcoreapp2.0\ChatProjectBySignalR.runtimeconfig.dev.json
+c:\users\demir\source\repos\ChatProjectBySignalR\ChatProjectBySignalR\bin\Debug\netcoreapp2.0\ChatProjectBySignalR.dll
+c:\users\demir\source\repos\ChatProjectBySignalR\ChatProjectBySignalR\obj\Debug\netcoreapp2.0\ChatProjectBySignalR.csprojResolveAssemblyReference.cache
+c:\users\demir\source\repos\ChatProjectBySignalR\ChatProjectBySignalR\obj\Debug\netcoreapp2.0\ChatProjectBySignalR.csproj.CoreCompileInputs.cache
+c:\users\demir\source\repos\ChatProjectBySignalR\ChatProjectBySignalR\obj\Debug\netcoreapp2.0\ChatProjectBySignalR.AssemblyInfoInputs.cache
+c:\users\demir\source\repos\ChatProjectBySignalR\ChatProjectBySignalR\obj\Debug\netcoreapp2.0\ChatProjectBySignalR.AssemblyInfo.cs
+c:\users\demir\source\repos\ChatProjectBySignalR\ChatProjectBySignalR\bin\Debug\netcoreapp2.0\ChatProjectBySignalR.pdb
+c:\users\demir\source\repos\ChatProjectBySignalR\ChatProjectBySignalR\obj\Debug\netcoreapp2.0\ChatProjectBySignalR.dll
+c:\users\demir\source\repos\ChatProjectBySignalR\ChatProjectBySignalR\obj\Debug\netcoreapp2.0\ChatProjectBySignalR.pdb

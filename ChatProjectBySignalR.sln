@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26711.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatProjectBySignalR.Server", "ChatProjectBySignalR.Server\ChatProjectBySignalR.Server.csproj", "{17DC7689-8223-4FBE-9172-DD1F66129A2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatProjectBySignalR.Client", "ChatProjectBySignalR.Client\ChatProjectBySignalR.Client.csproj", "{28752688-B56F-416B-90AD-FB1F64D2AE0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17DC7689-8223-4FBE-9172-DD1F66129A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DC7689-8223-4FBE-9172-DD1F66129A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DC7689-8223-4FBE-9172-DD1F66129A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DC7689-8223-4FBE-9172-DD1F66129A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28752688-B56F-416B-90AD-FB1F64D2AE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28752688-B56F-416B-90AD-FB1F64D2AE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28752688-B56F-416B-90AD-FB1F64D2AE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28752688-B56F-416B-90AD-FB1F64D2AE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A749C942-A4F6-4FA1-A0D4-380795FB4D0C}
+	EndGlobalSection
+EndGlobal
